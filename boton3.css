@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+.boton3 {
+	background-color:#000000;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size:15px;
+	padding:14px 76px;
+	text-decoration:none;
+}
+.boton3:hover {
+	background-color:#000000;
+}
+.boton3:active {
+	position:relative;
+	top:1px;
+}
+

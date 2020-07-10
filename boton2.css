@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.mybutton2 {
+	background-color:transparent;
+	border:2px solid #ffffff;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size:20px;
+	font-weight:bold;
+	padding:12px 60px;
+	text-decoration:none;
+}
+.mybutton2:hover {
+	background-color:transparent;
+}
+.mybutton2:active {
+    position: relative;
+    top: 1px;
+    font-weight: bold;
+}
